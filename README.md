@@ -4,28 +4,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Isaac+Ferdinand;">
 </h1>
 
-###
+<br/>
 
 <p align="center">I'm a Software Developer from Nairobi Kenya.</p>
 
-###
-
-<h2 align="center">👤About me</h2>
-
-###
 
 <p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Nodejs, Docker<br>🎲 Fun fact: Software engineering is a hard physical labor and it's also a team sport.</p>
 
 ###
 
 <div align="center">
+ <a href="mailto:isaacferdinand041@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+ </a>    
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
-
-###
+<hr/>
 
 <h2 align="center">⚙️Languages and Tools🛠️</h2>
 
@@ -50,14 +47,16 @@
 </div>
 
 ###
+<hr/>
 
 <h2 align="center">Contributions</h2>
 
 ###
 
-<img src="https://raw.githubusercontent.com/isferdinand/isferdinand/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/isferdinand/isferdinand/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+<hr/>
 
 <h2 align="center">⚡Stats⚡</h2>
 
