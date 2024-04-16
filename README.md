@@ -1,17 +1,3 @@
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hello there!👋 I'm Isaac  Ferdinand</h1>
 
 ###
@@ -61,7 +47,15 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="center">Contributions</h2>
+
+###
+
 <img src="https://raw.githubusercontent.com/isferdinand/isferdinand/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">⚡Stats⚡</h2>
 
 ###
 
